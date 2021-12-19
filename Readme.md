@@ -1,6 +1,6 @@
 # Welcome To My Github Page
 
-### I do some coding in my free time with languages like
+### I do some programming in my free time with languages like
 - Javascript
 - More Coming soon
 
