@@ -17,6 +17,6 @@ I also love playing with smart home devices.
 <hr>
 <div align="center">
 <img alt="SkechyWolf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkechyWolf&show_icons=true&hide_border=true&theme=city_lights">
-<br>
-<img alt="SkechyWolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkechyWolf&show_icons=true&hide_border=true&layout=compact&theme=city_lights">
+<!-- <br>
+<img alt="SkechyWolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkechyWolf&show_icons=true&hide_border=true&layout=compact&theme=city_lights"> -->
 </div>
