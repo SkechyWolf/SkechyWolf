@@ -15,7 +15,5 @@ I also love playing with smart home devices.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 <hr>
-<div>
 <img align="right" alt="SkechyWolf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkechyWolf&show_icons=true&hide_border=true&layout=compact&theme=city_lights">
 <img align="left" alt="SkechyWolf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkechyWolf&show_icons=true&hide_border=true&theme=city_lights">
-</div>
