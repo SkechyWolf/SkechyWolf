@@ -9,7 +9,7 @@ I also love playing with smart home devices.
 </p>
 <hr>
 <h3 align="left">I'm currently learning:</h3>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
