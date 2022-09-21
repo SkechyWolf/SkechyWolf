@@ -3,7 +3,7 @@
 <p align="left">
 About Me:
 <br>
-I started programming in JavaScript around 2019 to make a discord bot, and I've been in love with programming ever since.
+I started programming with JavaScript around 2019 to make a discord bot, and I've been in love with programming ever since.
 <br>
 I also love playing with smart home devices.
 </p>
